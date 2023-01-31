@@ -1,0 +1,9 @@
+{
+    
+    "host": "localhost",
+    "username": "root",
+    "password": "",
+    "database": "schoolmanagement",
+    "dialect": "mysql"
+
+}
